@@ -10,7 +10,9 @@ namespace ConsoleApp1
     {
         public int add()
         {
-            return 10 + 2;
+            int i = 10;
+            int j = 2;
+            return i + j;
         }
 
     }
